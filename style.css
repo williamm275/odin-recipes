@@ -1,0 +1,31 @@
+* {
+    font-family: Helvetica, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-weight: 500;
+    font-size: 32px;
+}
+
+h1.main-heading {
+    background-color: #1e7ddd;
+    color: #fff;
+    font-size: 48px;
+}
+
+img.recipe-image {
+    width: 400px;
+}
+
+a {
+    color: #1e7ddd;
+}
+
+li.recipe-link {
+    text-align: center;
+    list-style: none;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background-color: #e0e0e0;
+}
