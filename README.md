@@ -9,3 +9,4 @@ The website will consist of a main index page which will have links to a few rec
 
 ## Tools used:
 HTML
+CSS
